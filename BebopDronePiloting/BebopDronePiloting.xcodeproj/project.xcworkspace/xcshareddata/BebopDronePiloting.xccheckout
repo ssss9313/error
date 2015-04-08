@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>03B47467-AB74-4204-BD6F-A4FCE0D15854</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BebopDronePiloting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>23311FD6C3606B06703284F68947FDDF58EB5F81</key>
+		<string>github.com:ssss9313/bebdrone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BebopDronePiloting/BebopDronePiloting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>23311FD6C3606B06703284F68947FDDF58EB5F81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ssss9313/bebdrone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>23311FD6C3606B06703284F68947FDDF58EB5F81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>23311FD6C3606B06703284F68947FDDF58EB5F81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BebopDronePiloting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
